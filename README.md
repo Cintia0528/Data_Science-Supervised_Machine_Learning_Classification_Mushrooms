@@ -6,7 +6,7 @@ To explore the practical application of ML by trying to predict poisonous mushro
 We are interested in keeping Catalonian mushroom foragers safe from poisonous mushrooms, and therefore our aim is to completely eliminate Type II errors.
 
 ## Context
-In general, the aim of fine-tuning and perfecting the algorithms is to get our accuracy to close to perfection. However, this time around the emphasis is on Error Types and the delicate dance between accuracy and safety.
+In general, the aim of fine-tuning and perfecting the algorithms is to get our accuracy close to perfection. However, this time around the emphasis is on Error Types and the delicate dance between accuracy and safety.
 
 1. Are there any ML algorithms that by default err on the side of caution?
 2. Can we achieve 0 hospital cases with adjusting tresholds and exploring ROC curves?
