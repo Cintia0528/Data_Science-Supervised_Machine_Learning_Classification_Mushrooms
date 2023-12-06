@@ -32,4 +32,6 @@ The **Google Colab Notebook** for trying out different ML algorithms is found [h
 6. Tresholds and ROC Curve analysis
 
 ## Note to the Reader about my choice of models to try:
-My aim after running LazyPredict was to experiment with algorithms based on various mathematical models. RandomForest is a Decision Tree-based classifier, Label Propagation is a semi-supervised learning model, LGBM is a gradient boosting method, KNN groups data into “neighborhoods” based on similarities, while SVC looks for and calculates distances for the optimal hyperplane to divide the data into classes. By exploring various methods based on different mathematical models, I was curious whether any one of them would be more or less prone to a certain error type. 
+My aim after running LazyPredict was to ** experiment with algorithms based on various mathematical models**. 
+RandomForest is a Decision Tree-based classifier, Label Propagation is a semi-supervised learning model, LGBM is a gradient boosting method, KNN groups data into “neighborhoods” based on similarities, while SVC looks for and calculates distances for the optimal hyperplane to divide the data into classes. 
+By exploring various methods based on different mathematical models, I was curious whether any one of them would be more or less prone to a certain error type. 
