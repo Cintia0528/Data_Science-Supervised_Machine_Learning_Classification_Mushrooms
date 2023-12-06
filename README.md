@@ -21,7 +21,7 @@ In general, the aim of fine-tuning and perfecting the algorithms is to get our a
 * Rinse and repeat
 
 ## Deliverables
-The **Google Colab Notebook** for trying out different ML algorithms is found [here]() with a supporting Medium article that outlines my thinking process and practical takeaways more in detail [here](https://medium.com/@ubp0528/poisonous-mushrooms-striking-a-balance-between-accuracy-and-safety-with-machine-learning-80b77112e6dd).
+The **Google Colab Notebook** for trying out different ML algorithms is found [here](https://github.com/Cintia0528/Project-7-Supervised-Machine-Learning-Classification-Mushrooms/blob/feedbce3b23780986154448dda560d3e3b3fa9d8/Mushrooms.ipynb) with a supporting Medium article that outlines my thinking process and practical takeaways more in detail [here](https://medium.com/@ubp0528/poisonous-mushrooms-striking-a-balance-between-accuracy-and-safety-with-machine-learning-80b77112e6dd).
 
 ## Skills & Tools
 1. Data Reading & Cleaning 
